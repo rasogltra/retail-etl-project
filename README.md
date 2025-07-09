@@ -21,24 +21,3 @@ This project implements Extract, Transform and Load (ETL) pipline to process ret
 cd src
 python etl_pipeline.py
 ````
-
-### Project Structure
-retail-etl-project/
-├── config/
-│   └── settings.ini
-│
-├── data/
-│   ├── raw/               
-│   └── processed/        
-│
-├── logs/                 
-│
-├── reports/           
-│
-├── src/
-│   ├── etl.py          
-│   └── config_loader.py   
-│
-├── .gitignore            
-├── README.md             
-├── requirements.txt
