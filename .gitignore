@@ -1,0 +1,30 @@
+# macOS system files
+.DS_Store
+
+# Database files
+*.db
+
+# Log files
+*.log
+logs/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+*.ipynb_checkpoints/
+*.ipynb
+
+# Generated reports directory
+reports/
+
+# Processed data directory
+data/processed/
+
+# Virtual environment directories
+venv/
+.env/
+
+# Temporary files
+*.tmp
